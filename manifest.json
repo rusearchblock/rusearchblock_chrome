@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "RuSearchBlock",
+  "version": "1.0.1",
+  "description": "Вимикає показ російськомовного контенту у результатах пошуку Гугл",
+  "content_scripts": [
+    {
+      "matches": ["*://*.google.com/search*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "icons": { "128": "images/icon-128.png" }
+}

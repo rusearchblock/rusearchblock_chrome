@@ -1,14 +1,12 @@
-# RuSearchBlock для Google Chrome
+# RuSearchBlock для Firefox (Компʼютер та Android)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/876b87522d1f4266990e46828c52fa5d)](https://app.codacy.com/gh/rusearchblock/rusearchblock_chrome/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-[![Version](https://img.shields.io/chrome-web-store/v/jfcilfhphaakahijiphdjaplhpephgjb?label=version)](https://chrome.google.com/webstore/detail/jfcilfhphaakahijiphdjaplhpephgjb)
+[![Version](https://img.shields.io/amo/v/rusearchblock)](https://addons.mozilla.org/uk/firefox/addon/rusearchblock/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **RuSearchBlock** — це дуже простий плагін, який заблокує для Вас помилково додані російськомовні результати пошуку Google. Якщо, попри зміну налаштувань, IP тощо, Ви продовжуєте бачити російськомовні сайти — це розширення для Вас!
 
-## Версія для смартфонів / Firefox
-В Google Chrome на телефон не існує плагінів, тому для власників Android смартфонів існує [версія для Firefox](https://github.com/rusearchblock/rusearchblock_chrome/tree/firefox_version). 
-Для власників iPhone у майбутньому буде розроблена версія для Safari, бо на Firefox для iOS також не існує плагінів.
+Також існує версія для [Google Chrome](https://github.com/rusearchblock/rusearchblock_chrome)
 
 ## Як це працює
 
@@ -20,10 +18,9 @@
 
 ## Встановлення
 
-1. Перейдіть на сторінку в офіційному каталозі розширень Google Chrome: [Chrome Web Store](https://chrome.google.com/webstore/detail/jfcilfhphaakahijiphdjaplhpephgjb).
-2. Натисніть кнопку **Додати в Chrome**.
-3. Підтвердіть встановлення.
-4. Спробуйте щось пошукати у Google.
+1. Перейдіть на сторінку в офіційному каталозі розширень Firefox: [Firefox Browser Add-ons](https://addons.mozilla.org/uk/firefox/addon/rusearchblock/).
+2. Підтвердіть додавання.
+3. Спробуйте щось пошукати у Google.
 
 ## Підтримка
 
